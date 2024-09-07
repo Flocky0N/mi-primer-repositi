@@ -1,0 +1,10 @@
+C:\Users\Naidelyn\Desktop\Bono_Guia3\Bono_Guia3\bin\Debug\Bono_Guia3.exe.config
+C:\Users\Naidelyn\Desktop\Bono_Guia3\Bono_Guia3\bin\Debug\Bono_Guia3.exe
+C:\Users\Naidelyn\Desktop\Bono_Guia3\Bono_Guia3\bin\Debug\Bono_Guia3.pdb
+C:\Users\Naidelyn\Desktop\Bono_Guia3\Bono_Guia3\obj\Debug\Bono_Guia3.csproj.AssemblyReference.cache
+C:\Users\Naidelyn\Desktop\Bono_Guia3\Bono_Guia3\obj\Debug\Bono_Guia3.Form1.resources
+C:\Users\Naidelyn\Desktop\Bono_Guia3\Bono_Guia3\obj\Debug\Bono_Guia3.Properties.Resources.resources
+C:\Users\Naidelyn\Desktop\Bono_Guia3\Bono_Guia3\obj\Debug\Bono_Guia3.csproj.GenerateResource.cache
+C:\Users\Naidelyn\Desktop\Bono_Guia3\Bono_Guia3\obj\Debug\Bono_Guia3.csproj.CoreCompileInputs.cache
+C:\Users\Naidelyn\Desktop\Bono_Guia3\Bono_Guia3\obj\Debug\Bono_Guia3.exe
+C:\Users\Naidelyn\Desktop\Bono_Guia3\Bono_Guia3\obj\Debug\Bono_Guia3.pdb
