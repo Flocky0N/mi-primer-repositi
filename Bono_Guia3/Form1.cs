@@ -10,6 +10,9 @@ using System.Windows.Forms;
 
 namespace Bono_Guia3
 {
+    /// <summary>
+    /// Este programa consiste en calcular un bono de un x empleado
+    /// </summary>
     public partial class Form1 : Form
     {
         public Form1()
